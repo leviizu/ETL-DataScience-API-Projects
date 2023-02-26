@@ -1,1 +1,6 @@
-# Data-Scientist-vs-other-jobs-Compensation-comparison-
+# Data-Science-vs-other-jobs-Compensation-comparison
+
+## Project Purpose:
+
+
+## Goal:
