@@ -1,4 +1,4 @@
-# Data-Science-vs-other-jobs-Compensation-comparison
+# Data Science vs Other Jobs Compensation Comparison in US
 
 ## Project Purpose:
 
