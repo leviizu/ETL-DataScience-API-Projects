@@ -8,6 +8,6 @@ To demonstrate a full analytics ETL project where data could be extracted from a
 
 
 
-Data is from [kaggle] (https://www.kaggle.com/datasets/atharvap329/glassdoor-data-science-job-data) and [Bureau of economic analysis](https://apps.bea.gov/API/docs/index.htm)
+Data is from [kaggle](https://www.kaggle.com/datasets/atharvap329/glassdoor-data-science-job-data) and [Bureau of economic analysis](https://apps.bea.gov/API/docs/index.htm)
 
 ## Goal:
