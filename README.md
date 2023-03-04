@@ -1,4 +1,4 @@
-# Data Science vs Other Jobs Compensation Comparison in The US
+# Glassdor Data Science Jobs Compensation Comparison in The US
 
 ## About the Project:
 This project analyzes the 2022 Loan Limits by county. Skills used: Parsing JSON, grouping and summarizing data, slicing and filtering data frames, data visualization, and exporting data to excel
