@@ -1,7 +1,7 @@
 # Glassdor Data Science Jobs Compensation Comparison in The US
 
 ## About the Project:
-This project analyzes the 2022 Loan Limits by county. Skills used: Parsing JSON, grouping and summarizing data, slicing and filtering data frames, data visualization, and exporting data to excel
+This project analyzes Glass door data job advert 2021
 
 
 
@@ -20,7 +20,8 @@ To demonstrate a full analytics ETL project where data could be extracted from a
 ## Deliverables:
 
 ### Tableau Dashboard:
-The processed data is loaded into a csv file and imported into Tableau where viz are created to compare price to rent ratios across streets, types, districts et
+The processed data is loaded into a csv file and imported into Tableau where solutions that classify jobs depending if they are below or above the local average.
+Click to access dashboard: https://public.tableau.com/app/profile/levy.shemtov/viz/GlassdorDataScienceJobsCompensationComparisoninTheUS/Dashboard1
 
 ### Jupter Notebook:
 
